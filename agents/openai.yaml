@@ -1,0 +1,4 @@
+interface:
+  display_name: "三导演视频风格改写"
+  short_description: "自由选择或切换王家卫、李安、韦斯安德森，编写人物场景与镜头风格提示词"
+  default_prompt: "使用 $director-style-video，按我指定的王家卫、李安或韦斯·安德森风格，为素材改写人物、场景、氛围、运镜和滤镜；指定多位时分别给出可直接复制的版本。"
